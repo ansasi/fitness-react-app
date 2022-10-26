@@ -1,6 +1,7 @@
 {
   "name": "react-fitness-app",
   "version": "0.1.0",
+  "homepage": "https://ansasi.github.io/react-finess-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -15,6 +16,8 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -44,6 +47,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.29.4",
-    "eslint-plugin-react-hooks": "^4.4.0"
+    "eslint-plugin-react-hooks": "^4.4.0",
+    "gh-pages": "^4.0.0"
   }
 }
