@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fitness-react-app/static/css/main.35466fcc.css",
+    "main.js": "/fitness-react-app/static/js/main.25697ee8.js",
+    "static/media/banner.png": "/fitness-react-app/static/media/banner.f1cbcf165009d97c70f7.png",
+    "static/media/Logo-1.png": "/fitness-react-app/static/media/Logo-1.3803b36bdc365d089f09.png",
+    "static/media/Logo.png": "/fitness-react-app/static/media/Logo.6aa72f21dfec85ab374d.png",
+    "static/media/equipment.png": "/fitness-react-app/static/media/equipment.fd4e9b14428e010d5197.png",
+    "static/media/target.png": "/fitness-react-app/static/media/target.a74d4312d432cca6fb05.png",
+    "static/media/body-part.png": "/fitness-react-app/static/media/body-part.aebb27f78b057b796195.png",
+    "static/media/gym.png": "/fitness-react-app/static/media/gym.f74c111a2f12fe33128f.png",
+    "index.html": "/fitness-react-app/index.html",
+    "main.35466fcc.css.map": "/fitness-react-app/static/css/main.35466fcc.css.map",
+    "main.25697ee8.js.map": "/fitness-react-app/static/js/main.25697ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35466fcc.css",
+    "static/js/main.25697ee8.js"
+  ]
+}
