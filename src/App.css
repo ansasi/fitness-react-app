@@ -44,6 +44,7 @@
   width: 700px;
   height: 900px;
   margin-top: -330px;
+  object-fit: contain;
 }
 
 .exercise-card {

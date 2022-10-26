@@ -9,11 +9,11 @@ const HeroBanner = () => (
       Fitness Club
     </Typography>
     <Typography fontWeight={700} sx={{ fontSize: { lg: "44px", xs: "40px" } }} mb="23px" mt="30px">
-      Sweat, Smile <br />
+      Learn, Enjoy <br />
       And Repeat
     </Typography>
     <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
-      Check out the most effective exercises personalized to you
+      Check any exercise you want
     </Typography>
     <Stack>
       <a
