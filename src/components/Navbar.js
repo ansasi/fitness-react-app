@@ -11,6 +11,7 @@ const Navbar = () => (
     sx={{
       gap: { sm: "123px", xs: "40px" },
       mt: { sm: "16px", xs: "10px" },
+      ml: { sm: "0px", xs: "-1.5rem" },
       justifyContent: "none",
       display: "flex",
       alignItems: "center",
